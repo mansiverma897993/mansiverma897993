@@ -1,6 +1,4 @@
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  Hi 👋, I'm MAN$I VERMA
-</marquee>
+# Hi 👋, I'm MAN$I VERMA
 🔭 I’m currently working on VoteX ; A blockchain based voiting system.<br><br>🌱 I’m currently learning Web3 , Solana , Rust , Nodejs , Web development.<br><br>👯 I’m looking to collaborate on GSSoC 2025 as Tech contributor<br><br>🤝 I’m looking for help with Web3 project<br><br>👨‍💻 Linkedin https://www.linkedin.com/in/mansi-verma-4794a4328<br><br>📝 Twitter https://x.com/MansiVe61115132?t=cZMkDa3EYq1LpVr-BXoZ3g&s=09<br><br>💬 Ask me about Javascript ES6+ , Solidity , Blockchain<br><br>📫 How to reach me vmansi756@gmail.com<br><br>⚡ Fun fact Crazy, innovator and Business mindset.🔭 I’m currently working on<br>
 
 
