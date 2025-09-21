@@ -1,4 +1,4 @@
-# Hi 👋, I'm MAN$I VERMA
+#Hi👋, I'm MAN$I VERMA
 <h3>A passionate Web3 blockchain enthusiast, web developer, and Java-based DSA learner.</h3>
 
 ## 🏆 GitHub Trophies
