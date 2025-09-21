@@ -1,4 +1,9 @@
 # Hi 👋, I'm MAN$I VERMA
+<h3>A passionate Web3 blockchain enthusiast, web developer, and Java-based DSA learner.</h3>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mansiverma897993&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 🔭 I’m currently working on VoteX ; A blockchain based voiting system.<br><br>🌱 I’m currently learning Web3 , Solana , Rust , Nodejs , Web development.<br><br>👯 I’m looking to collaborate on GSSoC 2025 as Tech contributor<br><br>🤝 I’m looking for help with Web3 project<br><br>👨‍💻 Linkedin https://www.linkedin.com/in/mansi-verma-4794a4328<br><br>📝 Twitter https://x.com/MansiVe61115132?t=cZMkDa3EYq1LpVr-BXoZ3g&s=09<br><br>💬 Ask me about Javascript ES6+ , Solidity , Blockchain<br><br>📫 How to reach me vmansi756@gmail.com<br><br>⚡ Fun fact Crazy, innovator and Business mindset.🔭 I’m currently working on<br>
 
 
@@ -12,8 +17,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=mansiverma897993&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansiverma897993&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mansiverma897993&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mansiverma897993&limit=5&theme=radical&combine_all_yearly_contributions=true)
