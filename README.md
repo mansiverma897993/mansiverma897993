@@ -2,9 +2,6 @@
 
 <h3>A passionate Web3 blockchain enthusiast, web developer, and Java-based DSA learner.</h3>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mansiverma897993&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 🔭 I’m currently doing open source contribution.<br><br>🌱 I’m currently learning Typescript , Solana , Rust , Web development.<br><br>🤝I’m currently in Turbin Q4 PreBuilder Program , Ackee Blockchain S8<br><br>📫 How to reach me missmv897@gmail.com<br><br>
 
 ## 🌐 Socials:
