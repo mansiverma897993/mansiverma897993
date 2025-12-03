@@ -30,7 +30,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40"/> 
   <img src="https://skillicons.dev/icons?i=express" width="40" height="40"/> 
-  <img src="https://skillicons.dev/icons?i=redis" width="40" height="40"/> 
+ 
 
 </p>
 
