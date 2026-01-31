@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm MAN$I VERMA :)</h1>
 
 
-<h3>A passionate Web3 blockchain enthusiast, Web developer and Learning DSA from Java</h3>
+<h3>A passionate Web3 blockchain enthusiast and Full stack web developer !!</h3>
 
 <ul>
   <li>Currently contributing to open-source projects with a focus on real-world impact and collaboration.</li>
