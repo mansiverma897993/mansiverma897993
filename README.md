@@ -4,9 +4,9 @@
 <h3>A passionate Web3 blockchain enthusiast and Full stack web developer !!</h3>
 
 <ul>
-  <li>Currently contributing to open-source projects with a focus on real-world impact and collaboration.</li>
+  <li>Currently contributing to open-source projects(OSS) with a focus on real-world impact and collaboration.</li>
   <li>Actively learning TypeScript, Solana, Rust, and modern web development.</li>
-  <li>Participant in She'fi26 Scholar, Turbin Q4 PreBuilder Program, Ackee Blockchain S8, and 100xDevs Cohort 3.</li>
+  <li>Participant in She'Fi26 Scholar, Turbin Q4 PreBuilder Program, Ackee Blockchain S8, and 100xDevs Cohort 3.</li>
 </ul>
 
 
