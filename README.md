@@ -5,7 +5,7 @@
 
 <ul>
   <li>Currently contributing to open-source projects(OSS) with a focus on real-world impact and collaboration.</li>
-  <li>Actively learning TypeScript, Solana, Rust, and modern web development.</li>
+  <li>Actively learning TypeScript, Solana, Rust, FinTech and modern web development.</li>
   <li>Participant in She'Fi26 Scholar, Turbin Q4 PreBuilder Program, Ackee Blockchain S8, and 100xDevs Cohort 3.</li>
 </ul>
 
