@@ -16,10 +16,29 @@
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=solana,rust,aws,ts,css,gcp,git,html,java,js,linux,mysql,postgres,postman,react,tailwind,nodejs,mongodb,express" />
+<p align="center">
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=029" 
+     width="40" 
+     style="background:white; padding:5px; border-radius:6px;" />
+  <img src="https://skillicons.dev/icons?i=rust" width="40"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="40"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="40"/>
+  <img src="https://skillicons.dev/icons?i=css" width="40"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="40"/>
+  <img src="https://skillicons.dev/icons?i=git" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html" width="40"/>
+  <img src="https://skillicons.dev/icons?i=java" width="40"/>
+  <img src="https://skillicons.dev/icons?i=js" width="40"/>
+  <img src="https://skillicons.dev/icons?i=linux" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="40"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="40"/>
+  <img src="https://skillicons.dev/icons?i=react" width="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
+  <img src="https://skillicons.dev/icons?i=express" width="40"/>
 </p>
-
 
 [![](https://visitcount.itsvg.in/api?id=mansiverma897993&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center"><br>
