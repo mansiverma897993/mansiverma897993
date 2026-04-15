@@ -16,10 +16,8 @@
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
-  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=029" 
-     width="40" 
-     style="background:white; padding:5px; border-radius:6px;" />
+<p align="left">
+  <img src="https://cryptologos.cc/logos/solana-sol-logo.png?v=029" width="40"/>
   <img src="https://skillicons.dev/icons?i=rust" width="40"/>
   <img src="https://skillicons.dev/icons?i=aws" width="40"/>
   <img src="https://skillicons.dev/icons?i=ts" width="40"/>
