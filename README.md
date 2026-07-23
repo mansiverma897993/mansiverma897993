@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm MAN$I VERMA :)</h1>
 
 
-<h3>A passionate Web3 blockchain enthusiast and Full stack web developer !!</h3>
+<h3>A Full Stack Software Developer , solana Blockchain Developer  !!</h3>
 
 <ul>
   <li>Currently contributing to open-source projects(OSS) with a focus on real-world impact and collaboration.</li>
