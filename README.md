@@ -60,7 +60,7 @@
 
 ### [noz-in](https://github.com/mansiverma897993/noz-in)
 
-> A deterministic query-compatibility and migration engine that moves observability estates into SigNoz, shipped as the `promcast` CLI. It converts Grafana dashboards and Prometheus alerting rules into SigNoz artifacts, validates the exact target queries against live SigNoz APIs, and explains every compatibility decision in JSON and self-contained HTML. Migrates immediately via safe PromQL passthrough, then promotes only the queries proven equivalent to native SigNoz Builder queries — Grafana's 140-panel Node Exporter Full dashboard in one command.
+> A deterministic query-compatibility and migration engine that moves observability estates into SigNoz, shipped as the `promcast` CLI. It converts Grafana dashboards and Prometheus alerting rules into SigNoz artifacts, validates the exact target queries against live SigNoz APIs, and explains every compatibility decision in JSON and self-contained HTML. Migrates immediately via safe PromQL passthrough, then promotes only the queries proven equivalent to native SigNoz Builder queries Grafana's 140-panel Node Exporter Full dashboard in one command.
 
 `Go` `PromQL` `Grafana → SigNoz` `Observability` `CLI` `Query Equivalence`
 
@@ -72,7 +72,7 @@
 
 ### [Robox](https://github.com/mansiverma897993/Robox)
 
-> A Rust-native security auditor for Solana and Anchor programs. It parses Rust source with `syn`, classifies the program, runs deterministic security rules, and maps how instructions, accounts, PDAs, CPIs, and token flows relate — every finding explainable and pinned to an exact code location rather than an opaque score. Usable three ways: a web dashboard for interactive review, a CLI for local scans and CI gates, and a REST/WebSocket API, exporting to PDF, JSON, Markdown, or SARIF 2.1.0.
+> A Rust-native security auditor for Solana and Anchor programs. It parses Rust source with `syn`, classifies the program, runs deterministic security rules, and maps how instructions, accounts, PDAs, CPIs, and token flows relate every finding explainable and pinned to an exact code location rather than an opaque score. Usable three ways: a web dashboard for interactive review, a CLI for local scans and CI gates, and a REST/WebSocket API, exporting to PDF, JSON, Markdown, or SARIF 2.1.0.
 
 `Rust` `Solana` `Anchor` `Static Analysis` `syn` `SARIF 2.1.0` `CLI + API`
 
