@@ -36,6 +36,12 @@
   <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
   <img src="https://skillicons.dev/icons?i=express" width="40"/>
+  <img src="https://skillicons.dev/icons?i=go" width="40"/>
+  <img src="https://skillicons.dev/icons?i=py" width="40"/>
+  <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=chatgpt" width="40"/>
 </p>
 
 ## Certifications & Achievements
