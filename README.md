@@ -41,7 +41,10 @@
   <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
   <img src="https://skillicons.dev/icons?i=docker" width="40"/>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=claude" width="40"/>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=opensource" width="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain" width="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=llamaindex" width="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface" width="40"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=qdrant" width="40"/>
 </p>
 
 ## Certifications & Achievements
