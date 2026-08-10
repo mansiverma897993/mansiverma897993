@@ -50,6 +50,32 @@
 ## Certifications & Achievements
 [![Cyfrin Solana Achievement](https://img.shields.io/badge/Cyfrin-Solana_Achievement-green?style=for-the-badge&logo=solana)](https://profiles.cyfrin.io/u/missmv897/achievements/solana)
 
+## Featured Projects
+
+### [Atlas](https://github.com/mansiverma897993/Atlas)
+
+> An event-sourced, double-entry ledger and payments backend in Rust, built as a Cargo workspace of 5 service binaries and 6 shared libraries. Uses DDD and hexagonal architecture, Event Sourcing, CQRS, and sagas over a Redpanda event backbone, with a JWT/JWKS auth chain that fails fast on insecure defaults in production. 122 tests pass, including an in-process end-to-end transfer test and a conservation property test over randomized schedules.
+
+`Rust` `Axum + Tokio` `Event Sourcing` `CQRS` `PostgreSQL` `Redpanda` `Kubernetes` `OpenTelemetry`
+
+### [noz-in](https://github.com/mansiverma897993/noz-in)
+
+> A deterministic query-compatibility and migration engine that moves observability estates into SigNoz, shipped as the `promcast` CLI. It converts Grafana dashboards and Prometheus alerting rules into SigNoz artifacts, validates the exact target queries against live SigNoz APIs, and explains every compatibility decision in JSON and self-contained HTML. Migrates immediately via safe PromQL passthrough, then promotes only the queries proven equivalent to native SigNoz Builder queries — Grafana's 140-panel Node Exporter Full dashboard in one command.
+
+`Go` `PromQL` `Grafana → SigNoz` `Observability` `CLI` `Query Equivalence`
+
+### [Forge AI](https://github.com/mansiverma897993/Forge-AI)
+
+> An AI engineering operating system that unifies design, build, review, deploy, and monitor behind one web application backed by autonomous, human-in-the-loop agents. A pnpm monorepo pairing a Next.js 15 frontend with a Fastify REST + WebSocket API, Prisma over PostgreSQL with pgvector, and BullMQ/Kafka workers. Ships GitHub, Slack, Docker, and Kubernetes integrations with real-time collaboration, full observability, and enterprise RBAC + audit.
+
+`TypeScript` `Next.js 15` `Fastify` `Prisma + pgvector` `BullMQ` `Autonomous Agents` `RBAC + Audit`
+
+### [Robox](https://github.com/mansiverma897993/Robox)
+
+> A Rust-native security auditor for Solana and Anchor programs. It parses Rust source with `syn`, classifies the program, runs deterministic security rules, and maps how instructions, accounts, PDAs, CPIs, and token flows relate — every finding explainable and pinned to an exact code location rather than an opaque score. Usable three ways: a web dashboard for interactive review, a CLI for local scans and CI gates, and a REST/WebSocket API, exporting to PDF, JSON, Markdown, or SARIF 2.1.0.
+
+`Rust` `Solana` `Anchor` `Static Analysis` `syn` `SARIF 2.1.0` `CLI + API`
+
 [![](https://visitcount.itsvg.in/api?id=mansiverma897993&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center"><br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiverma897993&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="Mansi's GitHub Activity Graph" />
