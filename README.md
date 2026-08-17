@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm MAN$I VERMA :)</h1>
+<h1>Hi 🦀, I'm MAN$I VERMA :)</h1>
 
 
 <h3>A Full Stack Software Developer , Rust & Solana Developer  !!</h3>
