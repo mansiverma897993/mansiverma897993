@@ -6,7 +6,7 @@
 <ul>
   <li>Currently contributing to open-source projects(OSS) with a focus on real-world impact and collaboration.</li>
   <li>Expertise in TypeScript, Solana, Rust, FinTech Claude code , Codex and modern web development, DSA(Cpp), AI/ML.</li>
-  <li>Participant in She'Fi26 Scholar, Turbin Q2 Builder Program, Ackee Blockchain S8, and 100xDevs Cohort 3.</li>
+  <li>Participant in Rektoff C5, She'Fi26 Scholar, Turbin Q2 Builder Program, Ackee Blockchain S8, and 100xDevs Cohort 3.</li>
 </ul>
 
 
