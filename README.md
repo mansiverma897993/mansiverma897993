@@ -1,7 +1,7 @@
 <h1>Hi 🦀, I'm MAN$I VERMA :)</h1>
 
 
-<h3>A Full Stack Software Developer , Rust & Solana Developer  !!</h3>
+<h3>Software Developer , Rust & Solana Developer  !!</h3>
 
 <ul>
   <li>Currently contributing to open-source projects(OSS) with a focus on real-world impact and collaboration.</li>
