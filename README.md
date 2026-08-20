@@ -47,6 +47,7 @@
 </p>
 
 ## Certifications & Achievements
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/f993d5f0-0b4b-4c80-992d-e7fd4651ebbe/public_url)
 [![Cyfrin Solana Achievement](https://img.shields.io/badge/Cyfrin-Solana_Achievement-green?style=for-the-badge&logo=solana)](https://profiles.cyfrin.io/u/missmv897/achievements/solana)
 
 ## Featured Projects
