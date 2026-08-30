@@ -78,6 +78,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=mansiverma897993&icon=0&color=0)](https://visitcount.itsvg.in)
 <div align="center"><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mansiverma897993&radius=16&theme=react&area=true&order=5&custom_title=Contribution%20Graph" height="300" alt="Mansi's GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/mansiverma897993/mansiverma897993/output/activity-graph.svg"
+       height="300"
+       alt="Mansi's GitHub Activity Graph" />
 </div>
 >
