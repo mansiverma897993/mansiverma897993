@@ -1,9 +1,12 @@
 name: Update Activity Graph
 
 on:
-  schedule:
-    - cron: "* */12 * * *"
+  push:
+    branches:
+      - main
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -13,12 +16,13 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v6
+      - name: Checkout
+        uses: actions/checkout@v6
 
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: ${{ github.repository_owner }}
+          username: mansiverma897993
           options: theme=react&area=true&radius=16&custom_title=Contribution%20Graph
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
