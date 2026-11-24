@@ -1,13 +1,12 @@
 <h1>Hi 🦀, I'm MAN$I VERMA :)</h1>
 
 
-<h3>Software Developer , Rust & Solana Developer !!</h3>
+### Software Developer | Rust Developer | Open Source Contributor
 
-<ul>
-  <li>Currently contributing to open-source projects(OSS) with a focus on real-world impact and collaboration.</li>
-  <li>Expertise in TypeScript, Solana, Rust, FinTech,  Claude code , Codex and modern web development, DSA(Cpp), AI/ML.</li>
-  <li>Participant in Rektoff C5, She'Fi26 Scholar, Turbin Q2 Builder Program, Ackee Blockchain S8, and 100xDevs Cohort 3.</li>
-</ul>
+- Open-source contributor to **Qualcomm (GenieX) 18 merged PRs, Juspay 8+ merged PRs, Floci 15+ merged PRs, Microsoft**, and several other open-source projects.
+- Expertise in **Full-Stack Software Development, Rust, TypeScript, Backend Engineering, and AI/ML**, with additional experience in Web3 and Solana.
+- **AWS Certified Solutions Architect Associate** and **2× Hackathon Winner**.
+- Currently diving deeper into **AI Inference, Inference Optimization, Systems Programming, and High-Performance Computing**.
 
 
 ## 🌐 Socials:
