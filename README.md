@@ -3,7 +3,7 @@
 
 ### Software Developer | Rust Developer | Open Source Contributor
 
-- Open-source contributor to **Qualcomm (GenieX) 18 merged PRs, Juspay 8+ merged PRs, Floci 15+ merged PRs, Microsoft**, and several other open-source projects.
+- Open-source contributor to **Qualcomm (GenieX) 18 merged PRs, Juspay 8+ merged PRs, Floci 15+ merged PRs, Microsoft**, and many more.
 - Expertise in **Full-Stack Software Development, Rust, TypeScript, Backend Engineering, and AI/ML**, with additional experience in Web3 and Solana.
 - **AWS Certified Solutions Architect Associate** and **2× Hackathon Winner**.
 - Currently diving deeper into **AI Inference, Inference Optimization, Systems Programming, and High-Performance Computing**.
